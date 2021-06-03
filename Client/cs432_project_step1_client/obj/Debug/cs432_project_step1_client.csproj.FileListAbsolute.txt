@@ -1,0 +1,22 @@
+C:\Users\dogac\Documents\Visual Studio 2012\Projects\cs432_project_step1_client\cs432_project_step1_client\bin\Debug\cs432_project_step1_client.exe.config
+C:\Users\dogac\Documents\Visual Studio 2012\Projects\cs432_project_step1_client\cs432_project_step1_client\bin\Debug\cs432_project_step1_client.exe
+C:\Users\dogac\Documents\Visual Studio 2012\Projects\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.Form1.resources
+C:\Users\dogac\Documents\Visual Studio 2012\Projects\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.Properties.Resources.resources
+C:\Users\dogac\Documents\Visual Studio 2012\Projects\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.csproj.GenerateResource.Cache
+C:\Users\dogac\Documents\Visual Studio 2012\Projects\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.exe
+C:\Users\dogac\Documents\Visual Studio 2012\Projects\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.pdb
+C:\Users\dogac\Documents\Visual Studio 2012\Projects\cs432_project_step1_client\cs432_project_step1_client\bin\Debug\cs432_project_step1_client.pdb
+C:\Users\dogac\Documents\Visual Studio 2012\Projects\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\bin\Debug\cs432_project_step1_client.exe.config
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\bin\Debug\cs432_project_step1_client.exe
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\bin\Debug\cs432_project_step1_client.pdb
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.Form1.resources
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.exe
+C:\Users\Ahmet\source\repos\CS432 Project\cs432_project_step1_client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.pdb
+C:\Users\Ahmet\Desktop\MSI YEDEK\Dersler\cs432\acakman_Cakman_Ahmet\Client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\MSI YEDEK\Dersler\cs432\acakman_Cakman_Ahmet\Client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.exe
+C:\Users\Ahmet\Desktop\MSI YEDEK\Dersler\cs432\acakman_Cakman_Ahmet\Client\cs432_project_step1_client\obj\Debug\cs432_project_step1_client.pdb
